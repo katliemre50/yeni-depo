@@ -1,1 +1,2 @@
 path/to/largefile.dylib filter=lfs diff=lfs merge=lfs -text
+Library/** filter=lfs diff=lfs merge=lfs -text
